@@ -2,7 +2,7 @@
 
 Aplicação web full-stack completa de gerenciamento de tarefas (**Todo List**), desenvolvida com arquitetura limpa em camadas, sem qualquer mecanismo de autenticação ou autorização.
 
-> [!IMPORTANT]
+> [IMPORTANTE]
 > **APLICAÇÃO 100% PÚBLICA**:
 > O sistema não possui cadastro de usuário, login, logout, contas, sessões, tokens JWT, OAuth2 ou Spring Security. Todos os endpoints da API e a interface gráfica do usuário estão abertos e prontos para uso direto.
 
